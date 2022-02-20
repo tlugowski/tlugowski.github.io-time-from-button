@@ -1,0 +1,10 @@
+#screen {
+  color: #00e0d0;
+  border: 1px solid #00e0d0;
+  background: none;
+  padding: 10px 15px;
+  font-weight: 400;
+  font-size: 50px;
+  font-family: "Hammersmith One", sans-serif;
+  border-radius: 2px;
+}
